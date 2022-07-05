@@ -624,6 +624,46 @@ body{
 
 /* ----------- MEDIA QUERIES SECTION ---------------------  */
 
+/* MEDIA QUERRY  FOR MAX-WIDTH 480PX*/
+
+
+
+
+/* MEDIA QUERRY  FOR MAX-WIDTH 1150PX*/
+
+@media screen and  (max-width:1150px){
+
+    .footer{
+       height: 50vh; 
+    }
+    .footer .email{
+        margin-top: 4rem;
+    }
+
+}
+
+/* MEDIA QUERRY  FOR MAX-WIDTH 820PX*/
+
+@media screen and (max-width:820px){
+    .footer{
+        padding-top: 2rem;
+
+    }
+}
+
+
+/* MEDIA QUERRY  FOR MAX-WIDTH 720PX*/
+
+@media screen and (max-width:720px){
+    .footer{
+        padding-top: 2rem;
+
+    }
+}
+
+
+/* MEDIA QUERRY  FOR MAX-WIDTH 991PX*/
+
 @media (max-width:991px){
 
     html{
