@@ -568,7 +568,7 @@ body{
 }
 .box-container .box i{
     padding-right: .5rem;
-    color: red;
+    color: rgb(0, 1, 0);
 }
 
 .footer .email{
