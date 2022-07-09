@@ -607,6 +607,10 @@ body{
 
 }
 
+.box a{
+    color: #222;
+}
+
 .credit {
     text-align: center;
 }
